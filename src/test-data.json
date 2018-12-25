@@ -1,0 +1,132 @@
+{
+    "items": [
+        {
+            "id": "7e059eed-ce48-4acc-a6f4-40a956bf654a",
+            "offerId": "2326FAEA4BEB4F42A797ABC88F403AEA",
+            "productId": "5R7RM5GM3ILF",
+            "productName": "EVOO 11.6\" Convertible Touchscreen Laptop, Windows 10, 32GB Storage, Mini HDMI, Webcam, Black",
+            "itemId": 118701588,
+            "thumbnailUrl": "https://i5.walmartimages.com/asr/0479d3b5-88c1-42ae-9d09-1af31c3b03d3_1.59315f78fe4cc4b20fef5ae9c4b5644d.jpeg?odnHeight=100&odnWidth=100&odnBg=FFFFFF",
+            "variants": [
+                {
+                    "name": "Actual Color",
+                    "value": "Black"
+                }
+            ],
+            "type": "REGULAR",
+            "quantity": 1,
+            "price": 179,
+            "color": "Purple",
+            "unitPrice": 179,
+            "unitOfMeasure": "EA",
+            "hasCarePlan": false,
+            "discount": {
+                "discountPrice": 177.21,
+                "lineItemDiscountedPrice": {
+                    "currencyAmount": 177.21,
+                    "currencyUnit": "USD"
+                }
+            },
+            "primaryCategory": "Home Page/Electronics/Computers/Laptops/Shop Laptops by Type/Touchscreen Laptops",
+            "shippingTier": "THREE_TO_FIVE_DAY",
+            "shippingSlaDetail": {
+                "slaTier": "THREE_TO_FIVE_DAY",
+                "geoItemClassification": "NETWORK_GEO"
+            },
+            "isTwoDayShippingEligible": false,
+            "fulfillmentSelection": {
+                "fulfillmentOption": "S2S",
+                "shipMethod": "STORE_DELIVERY",
+                "storeId": 2031,
+                "availableQuantity": 4240,
+                "minPreciseDeliveryDate": 1545940800000,
+                "maxPreciseDeliveryDate": 1545940800000
+            }
+        }
+    ],
+    "shipping": {
+        "postalCode": "94587",
+        "city": "Union City",
+        "state": "CA"
+    },
+    "summary": {
+        "subTotal": 179,
+        "shippingIsEstimate": false,
+        "taxTotal": 17.28,
+        "taxIsEstimate": false,
+        "grandTotal": 199.49,
+        "quantityTotal": 1,
+        "amountOwed": 199.49,
+        "merchandisingFeesTotal": 5.0,
+        "shippingCosts": [
+            {
+                "label": "Pickup",
+                "type": "pickup",
+                "cost": 0
+            }
+        ],
+        "shippingTotal": 0,
+        "hasSurcharge": false,
+        "preTaxTotal": 179,
+        "promotionSummary": {},
+        "taxes": [
+            {
+                "type": "Sales Tax",
+                "amount": 17.28
+            }
+        ],
+        "fees": [
+            {
+                "type": "Environmental Waste Recycling Fee",
+                "amount": 5.0
+            }
+        ],
+        "pickupDiscount": 1.79
+    },
+    "pickupPeople": [],
+    "registries": [],
+    "payments": [],
+    "cardsToDisable": [],
+    "allowedPaymentPreferences": [],
+    "order": {
+        "status": "SET_FULFILLMENT_DETAIL",
+        "buyer": {},
+        "shippingDetails": [],
+        "pickupDetails": [
+            {
+                "itemId": "7e059eed-ce48-4acc-a6f4-40a956bf654a",
+                "storeId": 2031
+            }
+        ]
+    },
+    "sharedCategory": {
+        "shippingGroups": [
+            {
+                "itemIds": [
+                    "7e059eed-ce48-4acc-a6f4-40a956bf654a"
+                ],
+                "seller": "Walmart.com",
+                "shippingTier": "THREE_TO_FIVE_DAY",
+                "meetSla": true,
+                "defaultSelection": true,
+                "fulfillmentOption": "S2H",
+                "shippingGroupOptions": [
+                    {
+                        "method": "STANDARD",
+                        "methodDisplay": "Standard",
+                        "selected": true,
+                        "charge": 0.0,
+                        "deliveryDate": 1545940800000,
+                        "availableDate": 1545940800000,
+                        "fulfillmentOption": "S2H",
+                        "onlineStoreId": 0,
+                        "isThresholdShipMethod": true
+                    }
+                ],
+                "isEdelivery": false
+            }
+        ],
+        "isShippingEnabled": false,
+        "pickupDiscount": 1.79
+    }
+}

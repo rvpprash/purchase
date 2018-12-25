@@ -1,0 +1,26 @@
+
+#flyoutPopover {
+  position: relative;
+  z-index: 1000;
+  white-space: normal;
+}
+
+#flyoutPopover.hide {
+  display: none;
+}
+
+#flyoutPopover.show {
+  height: 75px;
+  width: 170px;
+  font-size: .75rem
+}
+
+/*#flyoutMenu h2 a {
+  color: #333;
+  margin-left: 15px;
+  text-decoration: none;
+}
+
+#flyoutMenu h2 a:hover {
+  text-decoration: underline;
+}*/

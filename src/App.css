@@ -1,0 +1,13 @@
+.purchaseSummary {
+  width: 25vw;
+  display: block;
+  margin: 1rem;
+  font-size: .875rem;
+}
+
+.raisedbox { 
+  padding: 10px;
+  border: 1px solid #e1e3e4;
+  border-radius: 4px;
+  box-shadow: 0 2px 3px 0 rgba(0,0,0,.16);
+}

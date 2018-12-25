@@ -1,0 +1,145 @@
+div {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.block-display {
+    display: block;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.inline {
+    display: inline;
+}
+
+.discount {
+    color: #e11e24;
+}
+
+.row {
+    margin: 0px 10px 0px 10px;
+    padding: 5px 10px 5px 10px;
+    display: block;
+}
+
+.cols {
+    margin: 0px 10px 0px 10px;
+    padding: 5px 10px 5px 10px;
+    min-width: 150px;
+}
+
+.right-align {
+    text-align: right;
+}
+
+.left-align {
+    text-align: left;
+}
+
+#flyout {
+    position: relative;
+    cursor: pointer;
+    font-size: .875rem;
+    color: #e11e24;
+}
+
+.tableRow {
+    display: table-row;
+}
+
+.tableCols {
+    display: table-column;
+}
+
+.tableCell {
+    display: table-cell;
+}
+
+.divider {
+    border: 0px;
+    border-top: 1px solid #ccc;
+    margin: 0.5em 1.0em .5em 1.0em;
+}
+
+#promoCode {
+    margin: 0px 10px 0px 20px;
+    border: none;
+    box-shadow: inset 0 -2px 0 0 #9d9fa2;
+}
+
+#applyButton {
+    margin: 8px 5px 2px 15px;
+    width: 56px;
+    position: relative;
+    bottom: 3px;
+    font-size: .875rem;
+    text-align: center;
+    height: 30px;
+    font-weight: 600;
+    border: 2px solid #030404;
+    border-radius: 4px;
+}
+
+.showMessage {
+    display: 'block';
+    color: #e11e24;
+}
+
+.hidePromotionMessage {
+    display: none !important;
+}
+
+img {
+    width: 25%;
+    height: 25%;
+}
+
+#itemDesc {
+    white-space: pre-wrap;
+    font-size: .875rem;
+    position: relative;
+    top: -10px;
+    width: 67%;
+}
+
+.actualPrice {
+    color: #6d6e71;
+    font-weight: 600;
+    text-decoration: line-through;
+    position: relative;
+    float: left;
+    right: 3px;
+}
+
+.discountedPrice {
+    color: #0f0f10;
+    font-weight: 600;
+    position: relative;
+    right: 40px;
+}
+
+.productColorDesc {
+    color: #6d6e71;
+    font-size: 0.75rem;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.font-weight-bold {
+    font-weight: 600;
+}
+
+.big-font {
+    font-size: 1rem;
+}
+
+.promoMessage {
+    left: 13px;
+    position: relative;
+    color: #e11e24;
+    font-weight: 500;
+}
